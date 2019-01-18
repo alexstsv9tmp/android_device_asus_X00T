@@ -1298,16 +1298,16 @@ vendor/lib/libhdr_tm.so|76ccea18cc7c1e2d306f0ae929d9a8859c452b9f
 vendor/lib64/libhdr_tm.so|63566fef9874efc6f5cc3985d2d69a1c1b76adca
 # Graphics (SDM) - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 vendor/lib/libqseed3.so|5278764477cea848e8eedd04d32e07c83cda09f4
-vendor/lib/libsdm-color.so|1aab62e6739511fe7e123d351dd1674f35aa2834
-vendor/lib/libsdm-diag.so|4e64ac4c22121d7d70ccfb971d8322ed5ef7ced8
--vendor/lib/libsdm-disp-vndapis.so|66477d2b02a21c14dd734f6ad6dbfbe03ebfc52c
-vendor/lib/libsdmextension.so|fb3a58beac640cea488c4fdb12c75abfc131627f
+vendor/lib/libsdm-color.so
+vendor/lib/libsdm-diag.so
+-vendor/lib/libsdm-disp-vndapis.so
+vendor/lib/libsdmextension.so
 vendor/lib/libtinyxml2_1.so|6a85a3ebc064319fba7b69c400d7d13f55a5b959
 vendor/lib64/libqseed3.so|bf6e7672419a52c498ca4e00750b24d3743c403a
-vendor/lib64/libsdm-color.so|a1af37dd56eea852759efe3aa213df3bd3c00daf
-vendor/lib64/libsdm-diag.so|87a4f764e894f16246c9a0d6e3f5885df76b750b
--vendor/lib64/libsdm-disp-vndapis.so|7dd94cb4409a987761d0c5b0c0c977e24c548d74
-vendor/lib64/libsdmextension.so|fd0c55fb27df93a36affccba87843fe50a246719
+vendor/lib64/libsdm-color.so
+vendor/lib64/libsdm-diag.so
+-vendor/lib64/libsdm-disp-vndapis.so
+vendor/lib64/libsdmextension.so
 vendor/lib64/libtinyxml2_1.so|b225b16e689e7e4c26fc6144637f6b0c416063f8
 # Graphics (Vulkan) - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 vendor/lib/hw/vulkan.sdm660.so|b50effe52bc030cdf5b337d18c4d9a07daf94a45
